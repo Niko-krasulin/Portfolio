@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.93a0497a.css",
+    "main.js": "/portfolio/static/js/main.97c2620c.js",
+    "static/js/787.25eaef86.chunk.js": "/portfolio/static/js/787.25eaef86.chunk.js",
+    "static/media/image_about_1.webp": "/portfolio/static/media/image_about_1.fba2041c7843d66b5ad9.webp",
+    "static/media/Portfolio.png": "/portfolio/static/media/Portfolio.032e99b4dcc564809d73.png",
+    "static/media/photo2.webp": "/portfolio/static/media/photo2.3dc1ed398db8d299d5fa.webp",
+    "static/media/photo3.webp": "/portfolio/static/media/photo3.f837ea9d60717225eeb2.webp",
+    "static/media/photo1.webp": "/portfolio/static/media/photo1.ffa9fa0652825fd63e1f.webp",
+    "static/media/svg-sprite.svg": "/portfolio/static/media/svg-sprite.c45f22ecff67cb37bac9ac04a24b5209.svg",
+    "static/media/mask3.png": "/portfolio/static/media/mask3.72d034213ae40c56dd4e.png",
+    "static/media/mask2.png": "/portfolio/static/media/mask2.14d7075c7d3e12938150.png",
+    "index.html": "/portfolio/index.html",
+    "static/media/akar-icons_arrow-left.svg": "/portfolio/static/media/akar-icons_arrow-left.9fe250622fd4428737d2e3b16d6a1689.svg",
+    "main.93a0497a.css.map": "/portfolio/static/css/main.93a0497a.css.map",
+    "main.97c2620c.js.map": "/portfolio/static/js/main.97c2620c.js.map",
+    "787.25eaef86.chunk.js.map": "/portfolio/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.97c2620c.js"
+  ]
+}
